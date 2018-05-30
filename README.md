@@ -11,3 +11,5 @@ http://<YOUR_SERVER_IP>:8000/api/v1/survival?name=<NAME_OF_PASSENGER>
 
 Where Name would be the name of the passenger.
 It would return you a JSON object containing the name of the passenger along with the survival of the passenger, it is considered that 0 is deceased and 1 is survived.
+
+Please make sure to run the requirement.txt file before you do any of the above
